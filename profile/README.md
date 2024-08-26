@@ -22,7 +22,7 @@ This project is open-source. You are free to use, modify, and distribute it as p
 ## Contact
 
 If you have any questions or need support, you can reach out via:
-- Twitter (X): (https://x.com/LooxOrg)[@LooxOrg]
+- Twitter (X): [LooxOrg](https://x.com/LooxOrg)
 - Discord: None for now
 
 ---
