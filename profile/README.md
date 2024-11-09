@@ -25,6 +25,3 @@ If you have any questions or need support, you can reach out via:
 - Twitter (X): [@LooxOrg](https://x.com/LooxOrg)
 - Discord: None for now
 
----
-
-Let me know if you want to add or change anything else!
